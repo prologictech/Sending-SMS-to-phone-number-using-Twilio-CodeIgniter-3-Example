@@ -1,19 +1,14 @@
-###################
-Sending-SMS-to-phone-number-using-Twilio-CodeIgniter-3-Example
-###################
+# Sending-SMS-to-phone-number-using-Twilio-CodeIgniter-3-Example
 
 A demonsestartion how to send SMS to phone number using Twilio in CodeIgniter 3
 
-*******************
-Dependencies
-*******************
+## Dependencies
 
 Need Twilio account
 Twilio Number
 
-**************************
-Instructions:
-**************************
+
+# Instructions:
 
 First setup ``CodeIgniter 3`` Framework.
 ```
@@ -46,4 +41,4 @@ public function send_twiliosms()
 			}
 		}
 	}
-	```
+	
